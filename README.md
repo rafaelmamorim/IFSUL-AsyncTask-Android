@@ -1,16 +1,19 @@
 <p align="center">
-    ![](IFSul-banner.jpg)
+    <a href="http://www.santana.ifsul.edu.br/" target="_blank">
+    <img src="IFSul-banner.jpg">
+    </a>
 </p>
+
 # Exemplo de uso do AsyncTask
 
 Repositório criado para mostrar uma aplicação simples usando AsyncTask na disciplina de
 Desenvolvimento Mobile II, do curso de Tecnólogo em Analise e Desenvolvimento de Sistemas do
-Instituto Federal Sul Riograndense (IFSul), Campus Santana do Livramento
+Instituto Federal Sul Riograndense (IFSul), [Campus Santana do Livramento](http://www.santana.ifsul.edu.br/).
 
 ## Screenshot
 
 <p align="center">
-    [<img src="image.png" height="450">](http://www.santana.ifsul.edu.br//)
+    <img src="image.png" height="450">
 </p>
 
 ## Sobre a Asynchronous Work
@@ -21,4 +24,4 @@ Instituto Federal Sul Riograndense (IFSul), Campus Santana do Livramento
 - Java: Threads
 - Kotlin: Corrotinas
 - Exemplo:
-  -- App de mídia social para atualizar o feed de conteúdo
+  - App de mídia social para atualizar o feed de conteúdo
