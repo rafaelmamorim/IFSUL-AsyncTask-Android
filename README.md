@@ -6,7 +6,7 @@ Repositório criado para mostrar uma aplicação simples usando AsyncTask na dis
 
 ## Screenshot
 
-!()[image.png]
+<img src="image.png" height="450">
 
 ## Sobre a Asynchronous Work
 
